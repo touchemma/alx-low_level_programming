@@ -1,1 +1,1 @@
-alx-low_level_programming projects
+alx-low_level_programming
